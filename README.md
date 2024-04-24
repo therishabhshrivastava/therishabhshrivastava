@@ -58,7 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/therishabhshrivastava/therishabhshrivastava/output/snake.svg" alt="Snake animation" />
 
 ###
 
