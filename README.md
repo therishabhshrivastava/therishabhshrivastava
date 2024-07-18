@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning backend.<br>🎯 Goals:  Aim to become proficient in the Essential Frontend Technologies.</p>
+<p align="left"><br>🎯 Goals:  Aim to become proficient in the Essential Frontend Technologies.</p>
 
 ###
 
